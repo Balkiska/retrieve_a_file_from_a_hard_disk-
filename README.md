@@ -12,9 +12,7 @@ The Python script `read_file.py` demonstrates how to check if a file exists and 
 ### Usage
 
 To use the Python script, replace `yourfile.txt` with the actual path to your file. You can run the script using a Python interpreter:
-
-```sh
-
+```sh```
 
 ## Rust Example
 
@@ -26,7 +24,7 @@ The Rust program src/main.rs demonstrates performing file reading with proper er
 ### Usage
 
 First, replace yourfile.txt with the path to your file. Compile and run the program with Cargo:
-```cargo run
+```cargo run```
 
 
 #Contributing
@@ -38,6 +36,9 @@ Contributions are welcome! If you have improvements or bug fixes, please open a 
 # License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
+
 
 
 
