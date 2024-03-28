@@ -14,7 +14,7 @@ The Python script `read_file.py` demonstrates how to check if a file exists and 
 To use the Python script, replace `yourfile.txt` with the actual path to your file. You can run the script using a Python interpreter:
 
 ```sh
-python read_file.py
+
 
 ## Rust Example
 
